@@ -1,2 +1,2 @@
 # adb_tool
-adb
+adb协助测试工具
